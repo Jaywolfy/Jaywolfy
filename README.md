@@ -1,5 +1,6 @@
 # 💫 About Me:
-## Hi, I'm Jason<br><br>    🌱 I’m currently learning Java programming and web development<br/><br>    💬 Ask me about web development, Linux operating systems, and tech<br/><br>    📫 How to reach me: [Instagram](https://www.instagram.com/j.ason0567/)<br/><br>    ⚡ Fun fact: I’m always ready to tackle complex problems and take on new challenges<br/><br/><br><br>👉 I’m currently a student at an IT school, learning Java programming and web development.
+## Hi, I'm Jason<br><br>    
+🌱 I’m currently learning Java programming and web development<br/><br>    💬 Ask me about web development, Linux operating systems, and tech<br/><br>    📫 How to reach me: [Instagram](https://www.instagram.com/j.ason0567/)<br/><br>    ⚡ Fun fact: I’m always ready to tackle complex problems and take on new challenges<br/><br/><br><br>👉 I’m currently a student at an IT school, learning Java programming and web development.
 
 
 ## 🌐 Socials:
